@@ -5,7 +5,7 @@ author_profile: true
 sidebar:
   nav: "sidebar_einrichtung"
 ---
-Unser Konzept befindet sich zurzeit in Bearbeitung um es den dem hessischen BEP (Bildungs und Erziehungsplan) anzupassen  :
+Unser Konzept befindet sich zurzeit in Bearbeitung um es dem hessischen BEP (Bildungs und Erziehungsplan) anzupassen  :
 
 ##### Kleingruppenarbeit / Maxi-Mini-Club
 Dient der individuellen Förderung der einzelnen Zielgruppen.
