@@ -7,7 +7,7 @@ sidebar:
 ---
 Das ausführliche Konzept können Sie gerne als gedruckte Version bei uns im Kindergarten anschauen oder hier herunterladen:
 
-![PDF](/assets/images/social_icons/pdf.png) [Konzeption_Schlosszwerge_Heusenstamm.pdf](/assets/pdf/Konzeption_Schlosszwerge_Heusenstamm.pdf)
+Das Konzept befindet sich gerade im Neuaufbau in Anlehnung an den hessischen Bildungs und Erziehungsplan
 
 ##### Kleingruppenarbeit / Maxi-Mini-Club
 Dient der individuellen Förderung der einzelnen Zielgruppen.
